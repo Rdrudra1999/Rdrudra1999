@@ -27,38 +27,3 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
   ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </div>
-
-<h2 align="center">📈 GitHub Stats</h2>
-<a href="https://github.com/Rdrudra99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdrudra99&theme=noctis_minimus&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrudra99&theme=noctis_minimus&layout=compact" />
-</a>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rdrudra99&theme=flat&no-frame=true&margin-w=30" alt="GitHub Trophies" />
-</p>
-
-<h2 align="center">📊 GitHub Activity Graph</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rdrudra99&theme=github" alt="GitHub Activity Graph" />
-</p>
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <!-- Add your social media badges here -->
-  <!-- Example: -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-</p>
-
-<h2 align="center">🚀 Visitor Counter</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Rdrudra99/count.svg" alt="Visitor Counter" />
-</p>
-
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Rdrudra99">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" />
-  </a>
-</p>
